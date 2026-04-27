@@ -1,7 +1,10 @@
+a = 10
 
 b = 4
 
-result = a - b
+c = 5
 
-print(result)
+r = a - c
+
+print(r)
 
